@@ -39,8 +39,11 @@ You are now ready to start developing applications in .Net, via PHP or on other 
 
 # Start Using ILEaccess / ILEusion
 
-Check out the .Net wrapper for accessing IBM i data using ILEusion and .Net. 
-https://github.com/richardschoen/ILEusion-DotNet
+Check out the .Net wrapper for accessing IBM i data using ILEusion and .Net.</br>
+https://github.com/richardschoen/ILEusion-DotNet</br>
+
+**Download Nuget package.**</br>
+https://www.nuget.org/packages/ILEusionStd </br>
 
 Hopefully other language wrappers will follow, however any language that can read and write JSON can interact with the ILEusion web service calls. 
 
