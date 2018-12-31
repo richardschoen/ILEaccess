@@ -3,7 +3,7 @@ Save file convenience packaging of IBM i libraries ILEASTIC, NOXDB and ILEUSION 
 
 **ILEastic** allows HTTP microservices to be created on IBM i</br>
 **NOXDB** makes SQL,JSON and XML made easy for IBM i.</br>
-**ILEusion** packages it all up to make IBM i data and program call services easier. </br>
+**ILEusion** packages it all up to make IBM i data and program call services easier. ILEusion has been temporarily forked here. https://github.com/richardschoen/ILEusion</br>
 
 For more info on these services see the sitemule Github projects:
 https://github.com/sitemule
