@@ -10,7 +10,7 @@ https://github.com/sitemule
 
 # Installing ILEACCESS library and starting an IBM i data service
 
-Download the **monoi.savf** save file from the selected releases page. 
+Download the **ileaccess.savf** save file from the selected releases page. 
 
 https://github.com/richardschoen/ILEaccess/releases
 
@@ -35,3 +35,7 @@ Starting an ILEaccess/ILEusion IBM i Data Service Instance
           PORT(9999)     
           LOGIN(*YES)`
 
+You are now ready to start developing applications in .Net, via PHP or on other platforms that can utilize the ILEusion data service. 
+
+Check out the .Net wrapper for accessing IBM i data using ILEusion and .Net. 
+https://github.com/richardschoen/ILEusion-DotNet
