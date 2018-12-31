@@ -1,9 +1,9 @@
 # ILEaccess
 Save file convenience packaging of IBM i libraries ILEASTIC, NOXDB and ILEUSION for convenience installation. 
 
-**ILEastic** allows HTTP microservices to be created on IBM i
-**NOXDB** makes SQL,JSON and XML made easy for IBM i.
-**ILEusion** packages it all up to make IBM i data and program call services easier. 
+**ILEastic** allows HTTP microservices to be created on IBM i</br>
+**NOXDB** makes SQL,JSON and XML made easy for IBM i.</br>
+**ILEusion** packages it all up to make IBM i data and program call services easier. </br>
 
 For more info on these services see the sitemule Github projects:
 https://github.com/sitemule
@@ -26,12 +26,12 @@ Restore the ILEACCESS library
 
 `RSTLIB SAVLIB(ILEACCESS) DEV(*SAVF) SAVF(QGPL/ILEACCESS)`
 
-Starting a Data Service Instance
+Starting an ILEaccess/ILEusion IBM i Data Service Instance
 
 `ADDLIBLE ILEACCESS`
 
 `STRILESRV JOB(ILEACCESS) 
           HOST(*ANY)     
           PORT(9999)     
-          LOGIN(*YES)    
+          LOGIN(*YES)`
 
