@@ -37,6 +37,10 @@ Starting an ILEaccess/ILEusion IBM i Data Service Instance
 
 You are now ready to start developing applications in .Net, via PHP or on other platforms that can utilize the ILEusion data service. 
 
+# Start Using ILEaccess / ILEusion
+
 Check out the .Net wrapper for accessing IBM i data using ILEusion and .Net. 
 https://github.com/richardschoen/ILEusion-DotNet
+
+Hopefully other language wrappers will follow, however any language that can read and write JSON can interact with the ILEusion web service calls. 
 
