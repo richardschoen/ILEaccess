@@ -39,7 +39,7 @@ You are now ready to start developing applications in .Net, via PHP or on other 
 
 # Start Using ILEaccess / ILEusion
 
-Check out the .Net wrapper for accessing IBM i data using ILEusion and .Net.</br>
+**Check out the .Net wrapper source** for accessing IBM i data using ILEusion and .Net.</br>
 https://github.com/richardschoen/ILEusion-DotNet</br>
 
 **Download Nuget package.**</br>
