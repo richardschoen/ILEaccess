@@ -1,5 +1,5 @@
 # ILEaccess
-Save file convenience packaging of IBM i libraries ILEASTIC, NOXDB and ILEUSION for convenience installation. 
+ILEaccess is a save file convenience packaging of IBM i libraries ILEASTIC, NOXDB and ILEUSION for convenience installation. 
 
 **ILEastic** allows HTTP microservices to be created on IBM i</br>
 **NOXDB** makes SQL,JSON and XML made easy for IBM i.</br>
