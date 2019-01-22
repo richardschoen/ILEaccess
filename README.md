@@ -3,7 +3,7 @@ ILEaccess is a save file convenience packaging of IBM i libraries ILEASTIC, NOXD
 
 **ILEastic** allows HTTP microservices to be created on IBM i</br>
 **NOXDB** makes SQL,JSON and XML made easy for IBM i.</br>
-**ILEusion** packages it all up to make IBM i data and program call services easier. ILEusion has been temporarily forked here. https://github.com/richardschoen/ILEusion</br>
+**ILEusion** packages it all up to make IBM i data and program call services easier using JSON rest calls. ILEusion has been temporarily forked here. https://github.com/richardschoen/ILEusion</br>
 
 For more info on these services see the sitemule Github projects:
 https://github.com/sitemule
