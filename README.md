@@ -1,6 +1,8 @@
 # ILEaccess
 ILEaccess is a save file convenience packaging of IBM i libraries ILEASTIC, NOXDB and ILEUSION for convenience installation. 
 
+ILEaccess/ ILEusion can be used to replace XMLSERVICE on IBM i as a remote data access layer via JSON REST based calls. (See API link below.)
+
 **ILEastic** allows HTTP microservices to be created on IBM i</br>
 **NOXDB** makes SQL,JSON and XML made easy for IBM i.</br>
 **ILEusion** packages it all up to make IBM i data and program call services easier using JSON rest calls. ILEusion has been temporarily forked here. https://github.com/richardschoen/ILEusion</br>
