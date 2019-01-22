@@ -47,3 +47,6 @@ https://www.nuget.org/packages/ILEusionStd </br>
 
 Hopefully other language wrappers will follow, however any language that can read and write JSON can interact with the ILEusion web service calls. 
 
+# ILEaccess / ILEusion Documentation for Rest API Calls
+
+https://github.com/richardschoen/ILEusion/wiki/ILEusion-API-Documentation
